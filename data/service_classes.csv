@@ -1,0 +1,17 @@
+,name,short_name,createdAt,updatedAt,task_name,ACL,objectId,__type,className
+0,Software As A Service,SAAS,2018-05-17T16:09:51.876Z,2018-09-05T15:36:03.108Z,saas,{'*': {'read': True}},Qh2MBWKdhx,Object,ServiceClass
+1,Infrastructure As A Service,IAAS,2018-05-17T16:09:51.903Z,2018-09-05T15:36:10.484Z,iaas,{'*': {'read': True}},nmjhEmvfgq,Object,ServiceClass
+2,Domain Name,DNS,2018-06-24T18:53:05.454Z,2018-09-05T15:36:17.448Z,dns,{'*': {'read': True}},aakYXeKWBS,Object,ServiceClass
+3,Consulting Service,Consulting Service,2018-07-03T13:06:09.721Z,2018-09-05T15:36:24.648Z,consulting_service,{'*': {'read': True}},6rdsqAqMAh,Object,ServiceClass
+4,Email,Email,2018-07-06T11:52:20.938Z,2018-09-05T15:36:32.602Z,email,{'*': {'read': True}},ngI6x6Kvxb,Object,ServiceClass
+5,Web Hosting,Web Hosting,2018-07-13T02:16:42.611Z,2018-07-19T13:18:49.534Z,web_hosting,{'*': {'read': True}},WQnhyMMFKw,Object,ServiceClass
+6,Website Builder,Website Builder,2018-07-13T02:40:50.290Z,2018-07-19T13:18:41.549Z,website_builder,{'*': {'read': True}},p7miksuWik,Object,ServiceClass
+7,Digital Marketing,Digital Marketing,2018-07-13T07:49:47.651Z,2018-07-19T13:18:33.904Z,digital_marketing,{'*': {'read': True}},61BFHkcMPq,Object,ServiceClass
+8,SSL & SECRITY,Ssl & Security,2018-07-13T16:22:29.473Z,2019-06-18T10:44:12.821Z,ssl_security,{'*': {'read': True}},wO6bs4dHXV,Object,ServiceClass
+9,Storage and Backup,Storage and Backup,2019-07-22T13:23:37.957Z,2019-07-22T13:24:00.303Z,storage_and_backup,{'*': {'read': True}},uJWp24kmaM,Object,ServiceClass
+10,Security,Security,2019-07-22T13:25:36.434Z,2019-07-22T13:25:47.432Z,security,{'*': {'read': True}},yMkRcJaqIy,Object,ServiceClass
+11,CPU,CPU,2019-07-22T13:26:18.301Z,2019-07-30T10:14:21.637Z,cpu,{'*': {'read': True}},blYPRkCdXx,Object,ServiceClass
+12,Professional service,Professional service,2019-07-22T13:27:22.138Z,2019-07-22T13:27:32.112Z,professional_service,{'*': {'read': True}},rE3wwgzgAd,Object,ServiceClass
+13,Support SLA Level,Support SLA Level,2019-07-22T13:27:47.699Z,2019-07-22T13:28:15.804Z,support_sla_level,{'*': {'read': True}},l9L2GsZCzA,Object,ServiceClass
+14,Memory,Memory,2019-07-30T10:14:27.655Z,2019-07-31T05:47:01.972Z,memory,{'*': {'read': True}},auOs2TWosA,Object,ServiceClass
+15,Meeting,Meeting,2020-04-01T15:52:56.552Z,2020-04-01T15:53:38.388Z,meeting,{'*': {'read': True}},NRYUvAFUQY,Object,ServiceClass
